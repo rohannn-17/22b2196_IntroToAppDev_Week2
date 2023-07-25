@@ -1,17 +1,7 @@
 # budget_tracker
 
-A new Flutter project.
+The app aims to keep track of monetary expenses and gains in daily life.
+First loads the Home Screen with Welcome message and username and has a 'Track Budget' button which open the next screen.
+Next screen is main Tally Screen with Total gain at the top adding all the gains and expenses below
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 # 22b2196_IntroToAppDev_Week2
